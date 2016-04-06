@@ -9,10 +9,10 @@ I also began playing with using the red ball to control the mouse cursor on the 
 
 OpenCV and Numpy.  On Debian systems they can be installed with the following commands:
 
-'''
+```
 sudo apt-get install python-numpy
 sudo apt-get install python-opencv
-'''
+```
 
 
 #How it works
