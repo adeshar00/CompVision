@@ -2,7 +2,7 @@
 
 This is a simple computer-vision program that takes feed from a webcam, and draws a circle on the video around a red ball (assuming that a red ball is being held in front of the camera).  It uses OpenCV to get the webcam feed, but the parts that find the ball and highlight it are written from scratch.
 
-I also began playing with using the red ball to control the mouse cursor on the screen (moving the ball close enough to the screen would count as a click), and got a very crude prototype working.  It felt pretty awkward to use though, so I didn't pursue it any further (if you're on Linux, you can test it out by building the source in the "mouse" directory, and then changing the first line of main.py from "mousemove = False" to "mousemove = True").
+I also began playing with using the red ball to control the mouse cursor on the screen (moving the ball close enough to the screen would count as a click), and got a very crude prototype working.  It felt pretty awkward to use though, so I didn't pursue it any further (if you're on Linux, you can test it out by building the source in the "mouse" directory, and then changing the first line of main.py from `mousemove = False` to `mousemove = True`).
 
 
 #Dependencies
